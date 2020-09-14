@@ -1,7 +1,7 @@
 <?php
 
 $mails = array('adv@realbud.com.ua');
-define('MAIL_SUBJECT', 'Новая заявка с сайта HOME РЕАЛ КАПИТАЛ БУД');
+define('MAIL_SUBJECT', 'Новая заявка с сайта HOME РЕАЛ КАПИТАЛ БУД Home');
 
 $headers   = array();
 $headers[] = "MIME-Version: 1.0";
