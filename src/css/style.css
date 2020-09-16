@@ -1391,8 +1391,8 @@ Copyright (c) 2014 Daniel Eden
 }
 
 .header-logo {
-	width: 100px;
-	height: 112px;
+	width: 130px;
+	height: 132px;
 }
 
 .header-right {
@@ -1413,7 +1413,7 @@ Copyright (c) 2014 Daniel Eden
 }
 
 .header-menu {
-	margin-top: 27px;
+	margin-top: 57px;
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -moz-box;
@@ -1462,6 +1462,7 @@ Copyright (c) 2014 Daniel Eden
 }
 
 .header-order {
+	margin-top: 25px;
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -moz-box;
@@ -2291,9 +2292,10 @@ Copyright (c) 2014 Daniel Eden
 }
 
 .about-title {
-	padding-top: 8px;
+	padding-top: 10px;
 	padding-left: 120px;
 	background: url(../img/kv.png) no-repeat 5px 0;
+	background-size: 10%;
 }
 
 .about-title:before {
@@ -3040,11 +3042,12 @@ Copyright (c) 2014 Daniel Eden
 .footer-logo {
 	width: 83px;
 	height: 112px;
+	padding-top: 30px;
 }
 
 .footer-descr {
-	margin-top: 17px;
-	margin-left: 11px;
+	margin-top: 25px;
+	margin-left: 30px;
 	width: 200px;
 	color: #19191c;
 	font: 16px/18px Gilroy-Regular, sans-serif;
@@ -3859,7 +3862,7 @@ body.fixed {
 }
 
 .header-logo {
-	height: 60px;
+	height: 80px;
 }
 
 .header-right {
